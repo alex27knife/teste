@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = /var/lib/stickshift/522e57c24382ec941b000150/app-root/data/608574/blog
+	fetch = +refs/*:refs/*
+	mirror = true
